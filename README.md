@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 My name is Michael, I am a freelancer,  
-and I am passionate about architecture for web applications, its development, and cloud deployment.
+and I am passionate about architecture for web applications, their development and cloud deployment.
 
-Long story short: no pain, no gain.
+Long story short: no pain, no gain, the harder, the better.
 
 
 Please, don't hesitate to contact me:
