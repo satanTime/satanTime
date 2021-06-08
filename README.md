@@ -22,3 +22,10 @@ If you wanted to help, please upvote:
 - https://github.com/codesandbox/codesandbox-client/issues/5598
 
 Thank you in advance!
+
+---
+
+History of contributions:
+
+- https://github.com/krzkaczor/ts-essentials/pull/190
+- https://github.com/typeorm/typeorm/pull/7318
