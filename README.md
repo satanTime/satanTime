@@ -29,3 +29,4 @@ History of contributions:
 
 - https://github.com/krzkaczor/ts-essentials/pull/190
 - https://github.com/typeorm/typeorm/pull/7318
+- https://github.com/typestack/class-validator/pull/335
