@@ -11,6 +11,8 @@ Please, don't hesitate to contact me:
 - you could use my [email address](mailto:m@sudo.eu)
 - or send a request on [LinkedIn](http://linkedin.com/in/michael-gusev/)
 
+---
+
 If you wanted to help, please upvote:
 
 - https://github.com/facebook/jest/issues/11483
