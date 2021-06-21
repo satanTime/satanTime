@@ -19,6 +19,7 @@ If you wanted to help, please upvote:
 - https://github.com/typeorm/typeorm/issues/5684
 - https://github.com/ngx-translate/core/pull/1275
 - https://github.com/stackblitz/core/issues/1494
+- https://github.com/stackblitz/core/issues/1511
 - https://github.com/codesandbox/codesandbox-client/issues/5598
 
 Thank you in advance!
