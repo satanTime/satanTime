@@ -15,6 +15,7 @@ Please, don't hesitate to contact me:
 
 If you wanted to help, please upvote:
 
+- https://github.com/karma-runner/karma/issues/3736
 - https://github.com/facebook/jest/issues/11483
 - https://github.com/ngx-translate/core/pull/1275
 - https://github.com/stackblitz/core/issues/1494
