@@ -15,6 +15,7 @@ Please, don't hesitate to contact me:
 
 If you wanted to help, please upvote:
 
+- https://github.com/angular/angular/issues/52817
 - https://github.com/angular/angular/issues/48432
 - https://github.com/jestjs/jest/issues/11456
 - https://github.com/jestjs/jest/issues/11483
