@@ -22,6 +22,7 @@ If you wanted to help, please upvote:
 - https://github.com/ngx-translate/core/pull/1275
 - https://github.com/stackblitz/core/issues/1494
 - https://github.com/stackblitz/core/issues/1764
+- https://github.com/renovatebot/renovate/discussions/25708
 
 Thank you in advance!
 
