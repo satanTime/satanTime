@@ -18,7 +18,6 @@ If you wanted to help, please upvote:
 - https://github.com/angular/angular/issues/52817
 - https://github.com/angular/angular/issues/48432
 - https://github.com/jestjs/jest/issues/11456
-- https://github.com/jestjs/jest/issues/11483
 - https://github.com/ngx-translate/core/pull/1275
 - https://github.com/stackblitz/core/issues/1494
 - https://github.com/stackblitz/core/issues/1764
